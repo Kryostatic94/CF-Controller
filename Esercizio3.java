@@ -1,5 +1,3 @@
-package com.databasees1;
-
 import java.util.Scanner;
 
 public class Esercizio3 {
